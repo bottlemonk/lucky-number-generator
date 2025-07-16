@@ -26,7 +26,7 @@ const App: React.FC = () => {
 
   return (
     <div className="flex flex-col min-h-screen antialiased text-white bg-gray-900">
-      <header className="pt-8 sm:pt-16 pb-4 sm:pb-8 text-center">
+      <header className="pt-16 sm:pt-24 pb-4 sm:pb-8 text-center">
         <h1 className="text-4xl font-bold tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-500 sm:text-5xl">
           Lucky Number Generator
         </h1>
