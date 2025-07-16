@@ -1,0 +1,5 @@
+{
+  "name": "Lucky Number Generator",
+  "description": "A sleek, mobile-first web app that generates three unique lucky numbers between 1 and 50 with smooth animations.",
+  "requestFramePermissions": []
+}
